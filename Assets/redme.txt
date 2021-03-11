@@ -1,0 +1,6 @@
+Le personnage animé tourne sur lui meme apres un deplacement. Je ne sais pas ce qui est en cause.
+
+Si vous voulez tester
+Aller sur la scene de test
+
+Pour compiler le jeu: Installer dans VS les modules dev de jeu C++ et dev Deskop C++
